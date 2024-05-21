@@ -9,6 +9,4 @@ Meu nome é Lucas Theofran
 ### Você pode entrar em contato comigo 
 00001070328145sp@al.educacao.sp.gov.br 📧
 
-
-
 ![](https://tenor.com/pt-BR/view/lebron-james-king-james-king-crown-lakers-gif-3644805052166030831)
