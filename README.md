@@ -2,7 +2,7 @@
 
 Meu nome é Lucas Theofran
 
--Estou cursando no Alura 👨‍🎓
+-Estou cursando no [Alura](https: 👨‍🎓
 -Estou apreendendo a línguagem Javascript 🖥️
 -Utilizo esse espaço para compartilhar meus Projetos 📖
 
